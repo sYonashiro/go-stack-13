@@ -1,5 +1,13 @@
+# Rocketseat Go Stack 13: Desafio 02
+
+<h3>
+    <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs">📑 Acessar detalhes do desafio</a>
+<h3>
+
+---
+
 ## 🔖&nbsp; Sobre
-O projeto é uma API desenvolvida dentro do curso **Bootcamp GoStack**, referente ao **Desafio 2: Conceitos do Node.js**.
+O projeto é uma API desenvolvida dentro do curso **Bootcamp GoStack**, referente ao **Desafio 02: Conceitos do Node.js**.
 
 ## 🚀 Tecnologias utilizadas
 
